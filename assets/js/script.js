@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { 
             name: "Commands", 
             file: "Commands.jar", 
-            description: "This Plugin Is In Beta!!! for cmds do /help commands for Java 17 Paper 1.21.3"
+            description: "This Plugin Is In Beta!!! for cmds do /help commands for Java 21 Paper 1.21.3"
         },
         { 
             name: "Coming Soon", 
